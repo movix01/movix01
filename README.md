@@ -61,19 +61,6 @@
   <strong>📫 Contact:</strong>
 <br>
 
-• Discord: Feli_x#7527 
-
 • E-mail: fakemail@gmail.com 
 
 </div>
-
-<img src="line.gif" width="100%">
-
-<div align="center">
-
-
-<div>
-  <img src="bottom.png" width="100%">
-</div>
-
-<img src="line.gif" width="100%">
