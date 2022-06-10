@@ -32,7 +32,6 @@
   <strong>🎨 Design:</strong>
 <br>
     <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge&labelColor=black">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=black">
 <br>
   -
 <br>
@@ -53,7 +52,6 @@
   <br>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge&labelColor=black">
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge&labelColor=black">
   </div>
 
   <img src="line.gif" width="100%">
@@ -65,7 +63,7 @@
 
 • Discord: Feli_x#7527 
 
-• E-mail: fellixmanning@gmail.com 
+• E-mail: fakemail@gmail.com 
 
 </div>
 
@@ -73,15 +71,6 @@
 
 <div align="center">
 
-<strong>Discord Status:</strong>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/822053527055630386)](https://discord.com/users/822053527055630386)
-<br>
-<br>
-<strong>🎶 Spotify:</strong>
-<br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c9zc9bemofiuft4ou4x4mp516&unique={true|1|on|yes})
-</div>
 
 <div>
   <img src="bottom.png" width="100%">
