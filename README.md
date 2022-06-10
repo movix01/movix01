@@ -22,14 +22,6 @@
 <br>
   -
 <br>
-  <strong>📚 Frameworks and Libraries:</strong>
-  <br>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=black">
-<br>
-  -
-<br>
   <strong>📱 IDEs/Editors:</strong>
   <br>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=black">
