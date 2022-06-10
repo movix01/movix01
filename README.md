@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Michael, currently studying IT at the University of Gdańsk.
+<h3 align="center">Hi, I'm Michał, currently studying IT at the University of Gdańsk.
 
 <div align="center">
  I am an unfulfilled artist so coding is the only thing that allows me to creatively fulfill myself. Also it is fun :D
