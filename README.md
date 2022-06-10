@@ -48,7 +48,7 @@
 <br>
   -
   <br>
-  <strong>🕸️ Not related to coding:</strong>
+  <strong>🕸️ Others:</strong>
   <br>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge&labelColor=black">
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge&labelColor=black">
