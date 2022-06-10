@@ -58,6 +58,8 @@
   </div>
 
 <div align="center">
-  <strong>📫 Contact:</strong><br>
+ 
+  <strong>📫 Contact:</strong>
+  <br>
 • E-mail: fakemail@gmail.com 
 </div>
