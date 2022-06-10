@@ -31,9 +31,10 @@
 <br>
   -
 <br>
-  <strong>🎨 Design:</strong>
+  <strong>🎨 Graphics:</strong>
 <br>
     <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge&labelColor=black">
+    <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
 <br>
   -
 <br>
@@ -56,13 +57,7 @@
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge&labelColor=black">
   </div>
 
-  <img src="line.gif" width="100%">
-
 <div align="center">
-
-  <strong>📫 Contact:</strong>
-<br>
-
+  <strong>📫 Contact:</strong><br>
 • E-mail: fakemail@gmail.com 
-
 </div>
