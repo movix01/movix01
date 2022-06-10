@@ -38,7 +38,7 @@
 <br>
   -
 <br>
-  <strong>🤌 Version Control:</strong>
+  <strong>🕸️ Version Control:</strong>
 <br>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
 <br>
