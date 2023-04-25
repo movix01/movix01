@@ -59,5 +59,5 @@
 
 <div align="center">
   <br><br><strong>📫 Contact:</strong><br><br>
-• E-mail: fakemail@gmail.com 
+• E-mail: movix010@gmail.com 
 </div>
